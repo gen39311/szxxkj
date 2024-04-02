@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <meta charset="utf-8"> 
+        <title>菜鸟教程(runoob.com)</title> 
+        </head>
+
+</html>
+<body>
+        <div id="header" style="background-color:#FFA500;">
+        <h1 style="margin-bottom:0;text-align:center;">上海时资信息科技有限公司</h1></div>
+        <div id="menu" style="background-color:#FFD700;height:300px;width:100px;float:left;">
+        <b>大众点评代运营</b><br><br>
+        大众点评笔记<br><br>
+        小红书笔记<br><br>
+        抖音达人探店<br><br>
+        拍摄<br><br>
+        美团/饿了么外卖代运营   
+    </div>
+        <div id="content" style="background-color:#EEEEEE;height:200px;width:400px;float:left;">
+            内容在这里</div>
+    </div>
+    <div id="footer" style="background-color:#FFA500;clear:both;text-align:center;">
+        公司使命：帮助客户低成本获取流量，做流量运营界的costco</div>
+</body>
